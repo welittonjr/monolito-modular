@@ -1,0 +1,10 @@
+.vs/
+.vscode/*
+!.vscode/launch.json
+.env
+coverage.out
+tmp/
+.idea/
+vendor/
+.codex
+main
